@@ -1,0 +1,10 @@
+tensorflow==2.6.0
+xgboost==1.5.0
+arch==5.3
+yfinance==0.1.63
+flask==2.0.2
+matplotlib
+pandas
+numpy
+scikit-learn
+
